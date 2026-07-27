@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações locais
+.env
+.vscode/
+
+# Pastas que não são necessárias para a API rodar
+notebooks/
+data/
