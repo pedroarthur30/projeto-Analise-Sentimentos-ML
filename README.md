@@ -167,7 +167,7 @@ O dataset (`data/raw/dataset.csv`) contém **500 reviews** de e-commerce em port
 Para treinar (ou re-treinar) o modelo a partir do dataset:
 
 ```bash
-python -m src.train
+python3 -m src.train
 ```
 
 O que esse comando faz:
